@@ -1,0 +1,16 @@
+[ 2025-06-02 10:52:31,863 ] 13 root - INFO - Prediction Pipeline started running
+[ 2025-06-02 10:52:31,863 ] 14 root - INFO - Data Transformation Started
+[ 2025-06-02 10:52:31,863 ] 16 root - INFO - Loading The Trained Model
+[ 2025-06-02 10:52:32,446 ] 26 root - INFO - best model found, Model Name is [0.]
+[ 2025-06-02 10:54:34,915 ] 13 root - INFO - Prediction Pipeline started running
+[ 2025-06-02 10:54:34,915 ] 14 root - INFO - Data Transformation Started
+[ 2025-06-02 10:54:34,915 ] 16 root - INFO - Loading The Trained Model
+[ 2025-06-02 10:54:34,915 ] 26 root - INFO - best model found, Model Name is [0.]
+[ 2025-06-02 10:55:00,877 ] 13 root - INFO - Prediction Pipeline started running
+[ 2025-06-02 10:55:00,877 ] 14 root - INFO - Data Transformation Started
+[ 2025-06-02 10:55:00,877 ] 16 root - INFO - Loading The Trained Model
+[ 2025-06-02 10:55:00,893 ] 26 root - INFO - best model found, Model Name is [0.]
+[ 2025-06-02 10:55:25,273 ] 13 root - INFO - Prediction Pipeline started running
+[ 2025-06-02 10:55:25,273 ] 14 root - INFO - Data Transformation Started
+[ 2025-06-02 10:55:25,273 ] 16 root - INFO - Loading The Trained Model
+[ 2025-06-02 10:55:25,287 ] 26 root - INFO - best model found, Model Name is [1.]
